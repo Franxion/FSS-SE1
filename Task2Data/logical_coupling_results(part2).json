@@ -1,0 +1,19 @@
+{
+    "top3_logical_coupling_pairs": [
+        {
+            "file1": "packages/shared/ReactFeatureFlags.js",
+            "file2": "packages/shared/forks/ReactFeatureFlags.test-renderer.js",
+            "degree": 331
+        },
+        {
+            "file1": "packages/shared/forks/ReactFeatureFlags.native-fb.js",
+            "file2": "packages/shared/forks/ReactFeatureFlags.native-oss.js",
+            "degree": 328
+        },
+        {
+            "file1": "packages/shared/ReactFeatureFlags.js",
+            "file2": "packages/shared/forks/ReactFeatureFlags.www.js",
+            "degree": 325
+        }
+    ]
+}
