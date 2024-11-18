@@ -1,0 +1,53 @@
+{
+    "24h": [
+        {
+            "file1": "src/renderers/shared/fiber/ReactFiberBeginWork.js",
+            "file2": "src/renderers/shared/fiber/ReactFiberScheduler.js",
+            "degree": 1187
+        },
+        {
+            "file1": "scripts/fiber/tests-failing.txt",
+            "file2": "scripts/fiber/tests-passing.txt",
+            "degree": 1142
+        },
+        {
+            "file1": "scripts/fiber/tests-passing.txt",
+            "file2": "src/renderers/shared/fiber/ReactFiberScheduler.js",
+            "degree": 1141
+        }
+    ],
+    "48h": [
+        {
+            "file1": "scripts/fiber/tests-passing.txt",
+            "file2": "src/renderers/shared/fiber/ReactFiberScheduler.js",
+            "degree": 1838
+        },
+        {
+            "file1": "scripts/fiber/tests-failing.txt",
+            "file2": "scripts/fiber/tests-passing.txt",
+            "degree": 1770
+        },
+        {
+            "file1": "src/backend/renderer.js",
+            "file2": "src/devtools/store.js",
+            "degree": 1622
+        }
+    ],
+    "72h": [
+        {
+            "file1": "scripts/fiber/tests-passing.txt",
+            "file2": "src/renderers/shared/fiber/ReactFiberScheduler.js",
+            "degree": 2303
+        },
+        {
+            "file1": "scripts/fiber/tests-failing.txt",
+            "file2": "scripts/fiber/tests-passing.txt",
+            "degree": 2216
+        },
+        {
+            "file1": "src/backend/renderer.js",
+            "file2": "src/devtools/store.js",
+            "degree": 2153
+        }
+    ]
+}
